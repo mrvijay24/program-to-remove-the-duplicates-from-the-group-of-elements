@@ -1,0 +1,4 @@
+#program to remove the duplicates from the group of elements
+l=list(map(int,input("enter the elements").split()))
+s=set(l)
+print(s)
